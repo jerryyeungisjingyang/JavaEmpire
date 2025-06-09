@@ -1,1 +1,1 @@
-some thoughts about java 2
+some thoughts about java
